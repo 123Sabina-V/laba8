@@ -14,7 +14,7 @@ int main()
 	{
 		sum = sum + k;
 	}
-	rez = (pow(x, 2)) / (pow(x, 2) + 2) + sum;
+	rez = (pow(x, 3)) / (pow(x, 2) + 2) + sum;
 	cout << rez << endl;
 	system("pause");
 	return 0;
